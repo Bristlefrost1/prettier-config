@@ -1,0 +1,24 @@
+{
+  "name": "@bristlefrost/prettier-config",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bristlefrost1/prettier-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Prettier"],
+  "author": {
+    "name": "Bris",
+    "email": "me@bristlefrost.net",
+    "url": "https://bristlefrost.net"
+  },
+  "license": "MIT",
+  "description": "The Prettier config used in my projects.",
+  "peerDependencies": {
+    "prettier": ">= 3.3.3"
+  }
+}
